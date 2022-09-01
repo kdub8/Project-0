@@ -63,14 +63,6 @@ public class App {
 
         // section for friday
 
-        /**
-         * javadoc comment
-         * 
-         * blah blah blah
-         * 
-         * 
-         */
-
         // method: nextInt
         // purpose: This method is used to scan the next token of the input as an
         // integer value.
